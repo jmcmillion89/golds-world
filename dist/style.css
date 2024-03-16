@@ -30,6 +30,7 @@ body {
     justify-content: center;
     align-items: center;
     bottom: 0;
+    /* margin-top: 40% */
     height: 20px;
     background-color: rgba(0, 0, 0, 0.863);
     z-index: 1;
@@ -107,6 +108,7 @@ body {
     letter-spacing: 0.2rem;
     font-size: 1rem;
     font-family: "Roboto", sans-serif;
+    padding-bottom: 1rem;
 }
 
 .mission {
